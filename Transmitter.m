@@ -3,7 +3,7 @@ text = text';
 text = double(text(:)') - 48;
 np=text;
 
-header=[0 1 1 1 1 1 1 0];
+header=[0 1 0 1 0 1 0 1 0 1 0 1 1 1 0 1 0 1 1 1];
 y=[dongbo np];
 
 y1=kron(ones(20,1),y);
