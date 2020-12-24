@@ -1,0 +1,2 @@
+# BPSK_Matlab
+This program simulates data transmission using BPSK modulation, data transmission is text, can be transmitted wirelessly and wired via a personal computer to another computer or transmitted by a single computer. by turning on 2 programs running in parallel 1 receiver and 1 broadcast. The pass function uses the 'sound' function in Matlab software. Try it with your computer. The longer and different the header, the better.
